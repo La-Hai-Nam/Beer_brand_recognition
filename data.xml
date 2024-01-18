@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beers>
+    <beer0>
+        <Name>Becks</Name>
+        <Sort>Pilsener</Sort>
+        <Alcohol>4.90%vol</Alcohol>
+        <Ingredients>brewing water, barley malt, hops</Ingredients>
+        <Color>golden yellow</Color>
+        <Foam>average</Foam>
+        <Smell>spicy, slightly pithy</Smell>
+        <Taste>spicy, malty, minimally pithy, mild, long finish</Taste>
+    </beer0>
+    <beer1>
+        <Name>Berliner Kindl</Name>
+        <Sort>Pilsener</Sort>
+        <Alcohol>4.80%vol</Alcohol>
+        <Ingredients>Water, barley malt, hop extract</Ingredients>
+        <Color>golden yellow</Color>
+        <Foam>average</Foam>
+        <Smell>malted, spicy</Smell>
+        <Taste>malted, slightly sweet, mild, long finish</Taste>
+    </beer1>
+    <beer2>
+        <Name>Corona</Name>
+        <Sort>Lager</Sort>
+        <Alcohol>4.50%vol</Alcohol>
+        <Ingredients>Water, barley malt, rice, corn, hop extract, papain, ascorbic acid</Ingredients>
+        <Color>brighter golden yellow</Color>
+        <Foam>little</Foam>
+        <Smell>slightly metallic and spicy</Smell>
+        <Taste>slightly malty, thin, minimally spicy, medium-long finish</Taste>
+    </beer2>
+    <beer3>
+        <Name>Krombacher Pils</Name>
+        <Sort>Pilsener</Sort>
+        <Alcohol>4.80%vol</Alcohol>
+        <Ingredients>Water, barley malt, hops, hop extract</Ingredients>
+        <Color>golden yellow</Color>
+        <Foam>much</Foam>
+        <Smell>spicy</Smell>
+        <Taste>spicy, malty, long finish</Taste>
+    </beer3>
+    <beer4>
+        <Name>Krombacher Pils Alkoholfrei</Name>
+        <Sort>Pilsener</Sort>
+        <Alcohol>0.0%vol</Alcohol>
+        <Ingredients>Water, barley malt, hops, hop extract</Ingredients>
+        <Color>golden yellow</Color>
+        <Foam>much</Foam>
+        <Smell>spicy</Smell>
+        <Taste>spicy, malty, long finish</Taste>
+    </beer4>
+    <beer5>
+        <No>5</No>
+        <Name>Mönchshof Hell</Name>
+        <Sort>Hell</Sort>
+        <Alcohol>4.90%vol</Alcohol>
+        <Ingredients>water, barley malt, hops</Ingredients>
+        <Color>golden yellow</Color>
+        <Foam>average</Foam>
+        <Smell>slightly spicy</Smell>
+        <Taste>Malty, mild, slightly sweet and spicy, long finish</Taste>
+    </beer5>
+    <beer6>
+        <Name>Sternburg Pilsner</Name>
+        <Sort>Pilsener</Sort>
+        <Alcohol>4.90%vol</Alcohol>
+        <Ingredients>Brewing water, barley malt, hops, hop extract</Ingredients>
+        <Color>golden yellow</Color>
+        <Foam>average</Foam>
+        <Smell>very spicy</Smell>
+        <Taste>spicy, long finish</Taste>
+    </beer6>
+    <beer7>
+        <Name>Warsteiner</Name>
+        <sort>Pilsener</sort>
+        <Alcohol>4.80%vol</Alcohol>
+        <Ingredients>Brewing water, barley malt, hops, hop extract</Ingredients>
+        <Color>golden yellow</Color>
+        <Foam>average</Foam>
+        <Smell>spicy</Smell>
+        <Taste>malted, slightly spicy, mild, long finish</Taste>
+    </beer7>
+</beers>
+

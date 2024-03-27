@@ -1,7 +1,7 @@
 BEER RECOGNITION (WIP)
 
 requirements
-- tensorlfow
+- tensorflow
 - BeautifulSoup4 (bs4)
 - OpenCV (cv2)
 
